@@ -22,15 +22,6 @@ To clone the repository go to your account open this repo and either click on cl
 
 e.g. git clone https://github.com/yourgithubusername/reponame.git
 
-### step 4 Create a branch
-On your local machine go the project folder that you cloned and use following git command inside that folder
-
-create a new branch using below command.
-
-> git checkout -b \<branch-name\>
-
-e.g. `git checkout -b mybranch`
-
 ### step 4 Lets make some contributions
 Make changes to files on your local machine work on the issue you're assigned. 
 
