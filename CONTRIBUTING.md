@@ -1,14 +1,3 @@
-# Learn-to-code
-## Alted Welcome you All to Learn to Code.
-### We beileve in Learning is Fun
-This repository is the Alt-Ed commitment towards the opensource and learning to code. Here in this repository we welcome both begineers as well as experienced coders both can make some awesome contributions. We believe there is no such thing as small contribution.
-
-This repository is Open source code base for variety of languages. This repository helps first time open source contributor to make their first PR and make some meaningful contribution to opensource projects. 
-
-## What you can contribute?
-1. Contribute in the code base. Provide programming example no matter how small or big it to the respective programming language folder if you don't find a folder with the language you want to contribute create it. 
-2. Contribute with projects. Any project that you did in your school college or university you can put it here in the respective programming language folder. 
-3. Contribute in Documentation. If you see there is way to improve our documentation or you find a typo or any broken link you can contribute in it as well.   
 ## How to Contribute?
 ### Step 1
 Look in the issues if the change you are doing is available and issues section is it assigned to someone or not if you can't find any issue open create one. Anyone from our team will assign you the issue then you can start contributing
